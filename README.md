@@ -6,3 +6,4 @@
 </p>
 <br>
 <center> <a href="http://gif-in-gif.com/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Create cyclic animated GIFs, like my Discord avatar!</p></a>
+<center> <a href="https://hadzy.com/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Search YouTube comment sections!</p></a>
