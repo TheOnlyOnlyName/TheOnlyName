@@ -12,4 +12,4 @@
 <center> <a href="https://greasyfork.org/scripts/477725-youtube-iframe-adblocker"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Block YouTube Ads</p></a>
 <center> <a href="https://chrome.google.com/webstore/detail/youtube-adblock-by-friend/ehfcoplbhoohillcmlophcfghpeilfjc"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Backup: Block YouTube Ads</p></a>
 
-<div style="height: 100vh"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-background-color="#08090c" data-text-color="#FFFFFF" data-button-color="#2de172" data-button-text-color="#FFFFFF" data-title="My Blog" data-description="Feel free to subscribe! :D" data-site="https://name-1.ghost.io/" async></script></div>
+<div style="height: 100vh"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-background-color="#08090c" data-text-color="#FFFFFF" data-button-color="#2de172" data-button-text-color="#FFFFFF" data-title="My Blog" data-description="Feel free to subscribe! :D" data-site="https://name.ghost.io/" async></script></div>
