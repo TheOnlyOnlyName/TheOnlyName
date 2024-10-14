@@ -10,3 +10,6 @@
 <center> <a href="https://windscribe.com/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Great free VPN!</p></a>
   <center> <a href="https://cobalt.tools/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Download YouTube videos (and more)!</p></a>
 <center> <a href="https://chrome.google.com/webstore/detail/youtube-adblock-by-friend/ehfcoplbhoohillcmlophcfghpeilfjc"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">An Alternate Way to Block YouTube Ads, if uBlock Origin isn't working</p></a>
+
+
+<a href="https://www.userfeel.com/t/2f72f999" target="_blank" rel="noopener"><img alt="HireMe image" src="https://www.userfeel.com/tester/1149225/image?.png" width="257" class="no-b-lazy"></a>
