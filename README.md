@@ -9,7 +9,8 @@
 <center> <a href="https://hadzy.com/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Search YouTube comment sections!</p></a>
 <center> <a href="https://shoffing.com/p/6/d/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Sort videos on YouTube channels from A-Z, likes, likes per view, number of comments, & length!</p></a>
 <center> <a href="https://windscribe.com/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Great free VPN!</p></a>
-  <center> <a href="https://cobalt.tools/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Download YouTube videos (and more)!</p></a>
+<center> <a href="https://cobalt.tools/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Download YouTube videos (and more)!</p></a>
+<center> <a href="https://cobalt.meowing.de/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Backup of above downloader when it doesn't work</p></a>
 <center> <a href="https://chrome.google.com/webstore/detail/youtube-adblock-by-friend/ehfcoplbhoohillcmlophcfghpeilfjc"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">An Alternate Way to Block YouTube Ads, if uBlock Origin isn't working</p></a>
 
 
