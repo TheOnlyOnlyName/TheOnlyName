@@ -1,4 +1,3 @@
-# Hello! This is a work in progress. Come back soon! :)
 <center><b>My Music Playlist</b>
 <br>
 <p align="center">
