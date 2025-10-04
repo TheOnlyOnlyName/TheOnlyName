@@ -1,4 +1,4 @@
-<h1># Hello! This is a work in progress. Come back soon! :)</h1>
+<center><h1>Hello! This is a work in progress. Come back soon! :)</h1>
 <center><b>My Music Playlist</b>
 <br>
 <p align="center">
