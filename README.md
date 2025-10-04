@@ -13,7 +13,7 @@
 <center> <a href="https://cobalt.meowing.de/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Backup of above downloader when it doesn't work</p></a>
 <center> <a href="https://instances.cobalt.best/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">A bunch of community instances for when neither of the above work!</p></a>
 <center> <a href="https://chrome.google.com/webstore/detail/youtube-adblock-by-friend/ehfcoplbhoohillcmlophcfghpeilfjc"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">An Alternate Way to Block YouTube Ads, if uBlock Origin isn't working</p></a>
-<center> <a href="http://gif-in-gif.com/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">(Archived, I do not recommend going to this site now) Create cyclic animated GIFs, like my Discord avatar!</p></a>
+<center> <a href="http://gif-in-gif.com/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">(Archived, I do not recommend going to this site now)<br> Create cyclic animated GIFs, like my Discord avatar!</p></a>
 
 
 <a href="https://www.userfeel.com/t/2f72f999" target="_blank" rel="noopener"><img alt="HireMe image" src="https://www.userfeel.com/tester/1149225/image?.png" width="257" class="no-b-lazy"></a>
