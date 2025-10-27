@@ -1,25 +1,8 @@
-<head><style>
-  .playlist-responsive {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
-  }
-
-  .playlist-responsive iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-  }
-</style></head>
-
 <center><h1>Hello! This is a work in progress. Come back soon! :)</h1>
 <br><center><b>My Music Playlist</b>
 <br>
 <p align="center">
-<div class="playlist-responsive><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?controls=0&amp;list=PL0nhJtIZKgObKyKn9gUF44wEQVqG3eEhT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?controls=0&amp;list=PL0nhJtIZKgObKyKn9gUF44wEQVqG3eEhT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <br>
 <center> <a href="https://hadzy.com/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Search YouTube comment sections!</p></a>
