@@ -5,7 +5,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?controls=0&amp;list=PL0nhJtIZKgObKyKn9gUF44wEQVqG3eEhT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p><br>
 <center><b>A project of mine:</b></center>
-<center><a href="https://www.youtube.com/@BeastPlaylists/"><b>MrBeast Playlists YouTube Channel - Main channel videos categorized, updated with each new upload</b></a>
+<center><a href="https://www.youtube.com/@BeastPlaylists/"><b>MrBeast Playlists YouTube Channel</b></a><br>
+<center>Main channel videos categorized, updated with each new upload</center>
 <br><br>
 <center> <a href="https://hadzy.com/"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Search YouTube comment sections!</p></a>
 <center> <a href="https://www.commentshark.com/youtube-comment-searcher"><p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">Faster site to search comments</p></a> 
