@@ -3,7 +3,7 @@
 <br>
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?controls=0&amp;list=PL0nhJtIZKgObKyKn9gUF44wEQVqG3eEhT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</p><br>
 <center><b>A project of mine:</b></center>
 <center><a href="https://www.youtube.com/@BeastPlaylists/"><b>MrBeast Playlists YouTube Channel - Main channel videos categorized, updated with each new upload</b></a>
 <br><br>
